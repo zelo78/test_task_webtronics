@@ -1,0 +1,8 @@
+venv
+.idea
+__pycache__
+db
+*.sqlite3
+secret.env
+.env
+project/celerybeat-schedule

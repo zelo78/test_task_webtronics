@@ -1,0 +1,10 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+psycopg2-binary
+drf-yasg
+python-dotenv
+factory_boy
+black
+flake8
